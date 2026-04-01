@@ -1,2 +1,2 @@
 # Computational-Pipeline-for-Lynch-Syndrome-Detection
-Automated pipeline for processing Whole Exome Sequencing (WES) data to detect Lynch syndrome-related variants using GATK, ANNOVAR, and custom region-based filtering.
+A modular RNA-seq variant calling pipeline for germline detection of Lynch syndrome-associated variants in mismatch repair genes (MLH1, MSH2, MSH6, PMS2, EPCAM) using HISAT2, GATK HaplotypeCaller, and ANNOVAR on GRCh38/hg38.
